@@ -1,0 +1,6 @@
+a.	all	{1:4}
+b.	let's	{1:1}
+c.	of	{1:5}
+d.	test	{1:2}
+e.	these	{1:6}
+f.	with	{1:3}

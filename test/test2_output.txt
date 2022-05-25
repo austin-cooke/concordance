@@ -1,0 +1,7 @@
+a.	and	{1:2}
+b.	characters	{1:2}
+c.	need	{1:1}
+d.	newline	{1:2}
+e.	tab	{1:2}
+f.	test	{1:1}
+g.	to	{1:1}
